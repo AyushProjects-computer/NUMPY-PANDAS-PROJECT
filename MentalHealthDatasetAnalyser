@@ -1,0 +1,19 @@
+This project explores how daily screen time and caffeine intake influence mental health indicators.
+DatasetFeatures:-
+Gender (Male / Female)
+
+Daily Screen Time (hours)
+
+Caffeine Intake (mg/day)
+
+Depression & Anxiety Scores
+
+Other lifestyle variables
+Insights:-
+Slight positive correlation between screen time and caffeine intake
+
+Gender-wise differences in average screen time and caffeine consumption
+
+Visualization of screen time distribution and coffee consumption patterns
+
+Insights into how digital diet relates to mental well-being
